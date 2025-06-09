@@ -16,8 +16,3 @@ An intelligent web app that allows students to upload `.ics` files of their clas
   - “What classes do I have on Friday?”
 - Voice input and AI-powered voice responses
 - Runs locally on `localhost:5173` (React) and `localhost:8000` (FastAPI)
-
----
-
-## 🧩 Project Structure
-
